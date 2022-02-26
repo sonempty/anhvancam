@@ -6,13 +6,13 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
       </Head>
-      <div className="flex items-center justify-between bg-gray-200 px-4 py-2">
+      <div className="flex items-center justify-between px-4 py-2">
         <h1 className="font-bold text-2xl">VanCam</h1>
         <div className="flex items-center space-x-4">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             aria-label="Phone"
-            className="h-5 w-5"
+            className="h-6 w-6"
             role="img"
             viewBox="0 0 512 512"
           >
@@ -33,7 +33,7 @@ export default function Home() {
           <svg
             xmlns="http://www.w3.org/2000/svg"
             aria-label="Telegram"
-            className="h-5 w-5"
+            className="h-6 w-6"
             role="img"
             viewBox="0 0 512 512"
           >
